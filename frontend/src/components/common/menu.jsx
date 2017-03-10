@@ -2,7 +2,6 @@ import React from 'react';
 
 const Menu = () => {
   return (
-
     <header className="mdl-layout__header">
       <div className="mdl-layout__header-row">
         <span className="mdl-layout-title">Todo List</span>
